@@ -1,0 +1,23 @@
+{
+  "name": "backend-bethehero",
+  "version": "1.0.0",
+  "description": "Backend-BeTheHero",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heliorneto/Backend-BeTheHero.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heliorneto/Backend-BeTheHero/issues"
+  },
+  "homepage": "https://github.com/heliorneto/Backend-BeTheHero#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
